@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "344ed2788ee6cc633d0c17e5fce0460a",
+    "content-hash": "fba2831b891ef06d52cb8f3dc4eb2578",
     "packages": [
         {
             "name": "itspire/monolog-loki",
